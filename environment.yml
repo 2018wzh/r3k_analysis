@@ -1,0 +1,12 @@
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch-cuda=12.1
+  - pytorch
+  - pip
+  - ipykernel
+  - numpy
+  - transformers
