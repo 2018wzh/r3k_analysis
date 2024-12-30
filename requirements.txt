@@ -1,6 +1,4 @@
-lac
-daal==2021.2.3
-pathlib
-ruamel-yaml
-paddlepaddle-gpu==2.6.0
-ipykernel
+hanlp
+iprogress
+ipywidgets
+ollama
